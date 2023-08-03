@@ -1,6 +1,5 @@
-# Title (replace with your title)
-
-Regular Expressions, commonly known as Regex, are powerful tools for pattern matching and text manipulation. They allow you to search for, match, and manipulate strings based on specific patterns. In this tutorial, we will cover the basics of using Regex in JavaScript.
+# Regex Tutorial
+Regular Expressions, commonly known as Regex, are powerful tools for pattern matching and text manipulation. They allow you to search for, match, and manipulate strings based on specific patterns. In this tutorial, we will cover the basics of using Regex in JavaScript. In this tutorial you will be walked through the differnnet ways to use Regex and will be given examples and will be provided information on what all the components do.
 
 # Summary
 
@@ -124,27 +123,50 @@ Regular expressions are powerful tools for pattern matching and text manipulatio
 # Table of Contents
 
 Anchors
+
 Quantifiers
+
 OR Operator
+
 Character Classes
+
 Flags
+
 Grouping and Capturing
+
 Bracket Expressions
+
 Greedy and Lazy Match
+
 Boundaries
+
 Back-references
+
 Look-ahead and Look-behind
+
 Regex Components
+
 Anchors
+
 Quantifiers
+
 OR Operator
+
 Character Classes
+
 Flags
+
 Grouping and Capturing
+
 Bracket Expressions
+
 Greedy and Lazy Match
+
 Boundaries
+
 Back-references
+
 Look-ahead and Look-behind
-Author
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+
+# Vlad Simonyan
+
