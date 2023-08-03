@@ -168,5 +168,8 @@ Back-references
 
 Look-ahead and Look-behind
 
-# Vlad Simonyan
+# Author
 
+Vlad is a student attending UCI Irvine Bootcamp. He has passion to keep trying to he succeeds and learn new things as he goes. The coding world has been a rollercoaster for him but hes taking it step by step and learning new ways to code his way to success. Although he enjoys the coding world he also has a passion for sports and gaming. He wants to take all that he is learning in the coding world and implement it into the sports and gaming world. He has many ideas that can have a postitive affect in both the gaming and sports world.
+
+https://github.com/VladSimonyan
